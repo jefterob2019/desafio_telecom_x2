@@ -1,0 +1,1 @@
+Este relatório consolida os resultados do projeto de análise preditiva de churn, cujo objetivo foi identificar os principais fatores que levam à evasão de clientes e desenvolver um modelo capaz de prever esse comportamento
